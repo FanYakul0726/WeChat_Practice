@@ -1,0 +1,8 @@
+/* pages/concant/concant.wxss */
+
+.div{
+  line-height: 200rpx;
+  border: 1rpx solid #efefef;
+  border-radius: 8rpx;
+  text-align: center;
+}

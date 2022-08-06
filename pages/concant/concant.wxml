@@ -1,0 +1,2 @@
+<!--pages/concant/concant.wxml-->
+<view class="div" wx:for="{{colorList}}" wx:key="index" style="background-color:rgb({{item}});">{{item}}</view>
